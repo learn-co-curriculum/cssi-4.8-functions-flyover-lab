@@ -12,11 +12,11 @@ type: lab
 You and your co-pilot are on a cross-country flight from New York to LA. You don't feel like talking to your passengers though, so you decide to write python methods to announce each state as you fly over it. Here is an example of what one of your functions might look like:
 
 ```python
-def pennsylvania
+def pennsylvania():
   return "We're flying over Pennsylvania!"
 ```
 
-Write your functions in a new file called `fly_over.py` and `print` each of your methods at the bottom of the file. (You might need to look at a map to figure out which states you'll be flying over.) When you're done, run your program to deliver your announcements to the flight's passengers.
+Write your functions in the file `flyover.py` and `print` each of your methods at the bottom of the file. (You might need to look at a map to figure out which states you'll be flying over.) When you're done, run your program to deliver your announcements to the flight's passengers.
 
 ### Bonus Items
 * Get excited! `print` the messages about your favorite states in all caps.
