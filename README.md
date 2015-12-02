@@ -19,3 +19,5 @@ Write your functions in the file `flyover.py` and `print` each of your methods a
   For example:'Hello'[::-1]
   prints 'olleH'
 * Safety first! As the pilot, it's your job to keep everyone safe. Write two functions `fasten_seatbelts` and `free_to_move_about_the_cabin` that return the appropriate safety messages.
+
+<a href='https://learn.co/lessons/cssi-4.8-functions-flyover-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
